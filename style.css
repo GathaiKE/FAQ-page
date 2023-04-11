@@ -51,18 +51,54 @@ body{
 #icon-arrow-down{
     margin-left: 70px;
 }
+#icon-arrow-down:hover{
+    cursor:pointer;
+}
+#icon-arrow-down:active{
+    cursor:pointer;
+    opacity: 0.5;
+}
+
 #iconStorage{
     transform: scale(-1);
     margin-left: 60px;
 }
+#iconStorage:hover{
+    cursor:pointer;
+}
+#iconStorage:active{
+    cursor:pointer;
+    opacity: 0.5;
+}
 #iconPassword{
     margin-left: 119px;
+}
+#iconPassword:hover{
+    cursor:pointer;
+}
+#iconPassword:active{
+    cursor:pointer;
+    opacity: 0.5;
 }
 #iconSubscription{
     margin-left: 100px;
 }
+#iconSubscription:hover{
+    cursor:pointer;
+}
+#iconSubscription:active{
+    cursor:pointer;
+    opacity: 0.5;
+}
 #iconSupport{
     margin-left: 95px;
+}
+#iconSupport:hover{
+    cursor:pointer;
+}
+#iconSupport:active{
+    cursor:pointer;
+    opacity: 0.5;
 }
 #Ans2{
     width: 80%;
